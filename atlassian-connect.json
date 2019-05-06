@@ -7,7 +7,7 @@
 "name": "Raul Pelaez",
 "url": "https://jirasupport.wordpress.com"
 },
-"baseUrl": "https://raw.githubusercontent.com/rberchtoldG2/test/master/atlassian-connect.json",
+"baseUrl": "https://raw.githubusercontent.com/rberchtoldG2/test/master/",
 "authentication": {
 "type": "none"
 },
